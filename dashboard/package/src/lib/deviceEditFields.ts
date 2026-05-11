@@ -1,0 +1,23 @@
+/** Campos editables en diálogos de equipo (columnas del modelo). */
+export const DEVICE_EDIT_FIELD_KEYS: { key: string; label: string }[] = [
+  { key: 'placa_equipo', label: 'Placa equipo' },
+  { key: 'estado', label: 'Estado' },
+  { key: 'origen', label: 'Origen' },
+  { key: 'sede', label: 'Sede' },
+  { key: 'ciudad', label: 'Ciudad' },
+  { key: 'usuario_asignado', label: 'Usuario asignado' },
+  { key: 'nombre_usuario_asignado', label: 'Nombre usuario asignado' },
+  { key: 'correo_usuario', label: 'Correo usuario' },
+  { key: 'nombre_equipo', label: 'Nombre equipo' },
+  { key: 'serial_number', label: 'Serial' },
+  { key: 'marca', label: 'Marca' },
+  { key: 'modelo', label: 'Modelo' },
+  { key: 'tipo_equipo', label: 'Tipo equipo' },
+  { key: 'tipo_contrato', label: 'Tipo contrato' },
+  { key: 'sistema_operativo', label: 'Sistema operativo' },
+  { key: 'tipo_procesador', label: 'Procesador' },
+  { key: 'capacidad_ram', label: 'RAM (GB o texto)' },
+  { key: 'tipo_ram', label: 'Tipo RAM' },
+  { key: 'tipo_disco', label: 'Tipo disco' },
+  { key: 'capacidad_disco', label: 'Capacidad disco' },
+]

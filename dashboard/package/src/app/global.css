@@ -1,0 +1,12 @@
+*{
+     font-family: 'Plus Jakarta Sans', Helvetica, Arial, sans-serif !important;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+  overflow-x: hidden;
+  background-color: #f4f6fa;
+}
